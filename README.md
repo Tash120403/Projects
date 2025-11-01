@@ -19,4 +19,6 @@
 - Modelling techniques such as regressions like Lasso, Ridge and Linear were analysed to forecast the stock prices from 2020-2025.
 - Other methods of modelling included Decision trees, Random forest, ARIMA and a DL model like LSTM were also used to further the quality of the forecasting.
 - Although newer methods like LSTM were used, the accuracy of the models were not as high. In the end, Ridge regression performed the best on average.
-- Finally, a diversified portfolio was created with ratios of the different risk tolerances for each of the top 10 stocks, so that investors could plan ahead on which stocks woule be the best to invest in so as to minimise risk and maximise capital. 
+- Finally, a diversified portfolio was created with ratios of the different risk tolerances for each of the top 10 stocks, so that investors could plan ahead on which stocks woule be the best to invest in so as to minimise risk and maximise capital.
+
+## Analaysis of Malaria in Red Blood Cells
