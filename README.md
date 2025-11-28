@@ -22,3 +22,9 @@
 - Finally, a diversified portfolio was created with ratios of the different risk tolerances for each of the top 10 stocks, so that investors could plan ahead on which stocks woule be the best to invest in so as to minimise risk and maximise capital.
 
 ## Analaysis of Malaria in Red Blood Cells
+
+- This was the first time I dealt with a dataset that did not contain any numerical data. The zip file contained two files named "Uninfected" and "Parasitized", with each containing more than 13,000 images.
+- EDA was carried out to analyse the various different cell shapes and colour filters for each individual image in order to identify any patterns within the dataset.
+- It was quicky identified that there were misclassified images, meaning images that contained cells that were malaria-free were classified as "Parasitized", and vice versa.
+- Models such as Single-Layer Perceptron, Multi-Layered Perceptrons (MLP), K-Means Clustering and K-Fold Out-of-Fold (OOF) were used to deal with the misclassifications.
+- 
