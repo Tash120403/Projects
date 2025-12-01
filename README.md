@@ -27,4 +27,7 @@
 - EDA was carried out to analyse the various different cell shapes and colour filters for each individual image in order to identify any patterns within the dataset.
 - It was quicky identified that there were misclassified images, meaning images that contained cells that were malaria-free were classified as "Parasitized", and vice versa.
 - Models such as Single-Layer Perceptron, Multi-Layered Perceptrons (MLP), K-Means Clustering and K-Fold Out-of-Fold (OOF) were used to deal with the misclassifications.
-- 
+- A Convolutional Neural Network (CNN) model was developed to help with the image classification of both sets of data, which gave a high testing accuracy of 91.74%.
+- From this model, further improvements to the CNN model were made to increase the testing accuracy and handle image classification better.
+- Transformations such as rotation, flips, crops and colour adjustmetns, increasing the number of layers and adding a scheduler increased the testing accuracy to 98.16%.
+- Using the scheduler, the number of epochs was 50 and the model prevented overfitting and sved time. 
