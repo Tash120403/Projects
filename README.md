@@ -13,7 +13,7 @@
 ## 2. Stock Portfolio Optimisation
 
 - The dataset given consisted of different data types such as strings, floats and time series data.
-- There was many missing NaN values that were identified, so forward and backward filling methods were used to fill in these missing values.
+- There were many missing NaN values that were identified, so forward and backward filling methods were used to fill in these missing values.
 - EDA was performed on the top 10 US stocks, and the stock performance was analysed for the entire 26 years.
 - Time series plots were done to analyse the trends of how the stock prices for the 10 companies changed over time, since the data was originally a time series data.
 - Modelling techniques such as regressions like Lasso, Ridge and Linear were analysed to forecast the stock prices from 2020-2025.
