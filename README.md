@@ -5,7 +5,7 @@
 - There was the initial data cleaning stage where the number of missing values in the dataset were either imputed or dropped.
 - Exploratory Data Analaysis (EDA) was carried out to analyse trends in the dataset so that patterns or changes in the sales during different periods of time could be analysed. 
 - Bar charts, line graphs, time series plots and a correlation matrix were some of the data visualisation techniques used to gain valuable insights to our data, which gave an insight on how to proceed to the next step.
-- Machine Learing (ML) models such as Lasso and Ridge regressions were used for forecasting future stock prices.
+- Machine Learing (ML) models such as Lasso and Ridge regressions were used for forecasting future sale prices.
 - The regression models did give us a good R^2 value, but we managed to improve it further by implementing Decision trees and Random Forest models as well.
 - At the end of the project, we essentially came up with a time series prediction model that forecasted the next 4 weeks of sales from its current date.
 - We finally ended the project while a model outputting an R^2 value of 0.997.
